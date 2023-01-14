@@ -1,0 +1,51 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e981d0ec289a30c5283f871e033cfc7bbba"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98f0fd34c8715c486a48c05ff91eadf764"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e989eef64033d2a36546e801665ce04331a"
+    }
+  ],
+  "containerPath" : "/Users/iphonexr/Desktop/DemoSocketIO2/Pods/Pods.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/iphonexr/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/iphonexr/Library/Developer/Xcode/DerivedData/Pods-chwtuprycxfpopczzxzvwlcxoflk/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/iphonexr/Library/Developer/Xcode/DerivedData/Pods-chwtuprycxfpopczzxzvwlcxoflk/Index.noindex/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}
